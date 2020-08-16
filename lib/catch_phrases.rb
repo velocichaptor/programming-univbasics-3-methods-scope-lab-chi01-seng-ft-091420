@@ -13,3 +13,6 @@ def link
   puts shout
 end
 
+def all_phrases
+  puts(mario, toadstool, link)
+end
