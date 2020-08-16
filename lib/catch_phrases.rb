@@ -9,7 +9,7 @@ def toadstool
 end
 
 def link
-  shout = "It's Dangerous to Go Alone! Take This."
+  shout = "It's Dangerous To Go Alone! Take This."
   puts shout
 end
 
